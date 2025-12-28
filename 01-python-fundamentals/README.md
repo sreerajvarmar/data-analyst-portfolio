@@ -21,3 +21,12 @@ A simple Python project that analyzes student performance based on marks.
 
 ## Sample Output
 Displays student grades, average marks, and top performer.
+
+## Why This Project
+This project demonstrates my understanding of Python fundamentals such as
+data structures, functions, and control flow through a real-world example.
+
+## Future Improvements
+- Input validation
+- File-based data storage
+- GUI version
